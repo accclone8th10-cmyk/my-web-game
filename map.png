@@ -1,0 +1,2 @@
+const mapImg = new Image();
+mapImg.src = 'map.png'; // Đường dẫn này gọi là "đường dẫn tương đối"
